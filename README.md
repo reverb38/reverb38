@@ -16,7 +16,7 @@ MIRIAM LARSEY
 
 
 <details>
-<summary><strong>3) [Cebtry] — [Info on market prices and buy stocks and shares ]</strong></summary>
+<summary><strong>3) [Centry] — [Info on market prices and buy stocks and shares ]</strong></summary>
 - **Stack**: [Python, FastAPI, Redis]
 - **What it does**: [brief description]
 - **Highlights**: [benchmarks, test coverage, observability]
@@ -33,12 +33,14 @@ MIRIAM LARSEY
 
 
 - <strong>ALX Professional Foundations </strong> — MAY 2025 
-<em>Key projects:</em> [name + link], [name + link]
-<em>What I learned:</em> [systems thinking, low-level programming, teamwork, code reviews, deadlines]
+<em>Key projects:</em> [Zentura ], [https://drive.google.com/file/d/1BSOqQNBX9eganQdtu0vyFIoHm6-cl4jZ/view?usp=sharing]
+<em>What I learned:</em> - Team work
+                         - Growth Mindset
+                         - Meditation   
 
 
 - <strong>Backend Programming </strong> — 2025
-<em>Highlights:</em> [capstone, award, mentorship, scholarship, etc.]
+
 
 
 ---
@@ -49,7 +51,7 @@ MIRIAM LARSEY
 
 
 <p>
-I started with software engineering because <strong>[insert reason: to solve X in my community, to automate Y, to scale Z]</strong>. I’m inspired by <strong>[insert inspirations]</strong>, and I aim to <strong> build long lasting systems </strong>.
+I started with software engineering because <strong> I want to solve pressing problems that affect my community </strong>. I’m inspired by <strong>  RISE International</strong>, and I aim to <strong> build long lasting systems </strong>.
 I want to work on <strong> websites and apps </strong> that create real value and sustainable impact.
 </p>
 
@@ -75,8 +77,8 @@ I want to work on <strong> websites and apps </strong> that create real value an
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&include_all_commits=true&hide=contribs&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=reverb38 &show_icons=true&include_all_commits=true&hide=contribs&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reverb38 &layout=compact&langs_count=8" height="165" />
 
 
 <!-- Streaks (optional) -->
