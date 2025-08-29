@@ -1,16 +1,154 @@
-## Hi there 👋
+<!-- HEADER / HERO -->
+---
+MIRIAM LARSEY 
 
-<!--
-**reverb38/reverb38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><strong>2) [Zentura ] — [AI builder and jobsearch app]</strong></summary>
+- **Stack**: [Node, Express, React]
+- **What it does**: [brief description]
+- **Highlights**: [websockets, queues, caching]
+- **Live**: [demo] · **Repo**: [repo]
+- **Screenshots**: <img alt="screenshot" src="[image url]" width="500"/>
+</details>
+
+
+<details>
+<summary><strong>3) [Cebtry] — [Info on market prices and buy stocks and shares ]</strong></summary>
+- **Stack**: [Python, FastAPI, Redis]
+- **What it does**: [brief description]
+- **Highlights**: [benchmarks, test coverage, observability]
+- **Live**: [demo] · **Repo**: [repo]
+- **Screenshots**: <img alt="screenshot" src="[image url]" width="500"/>
+</details>
+
+
+---
+
+
+<!-- EXPERIENCE / PROGRAMS -->
+<h2>🎓 Programs & Certifications</h2>
+
+
+- <strong>ALX Professional Foundations </strong> — MAY 2025 
+<em>Key projects:</em> [name + link], [name + link]
+<em>What I learned:</em> [systems thinking, low-level programming, teamwork, code reviews, deadlines]
+
+
+- <strong>Backend Programming </strong> — 2025
+<em>Highlights:</em> [capstone, award, mentorship, scholarship, etc.]
+
+
+---
+
+
+<!-- CASE STUDY / STORYTELLING -->
+<h2>🧭 Why I Build</h2>
+
+
+<p>
+I started with software engineering because <strong>[insert reason: to solve X in my community, to automate Y, to scale Z]</strong>. I’m inspired by <strong>[insert inspirations]</strong>, and I aim to <strong> build long lasting systems </strong>.
+I want to work on <strong> websites and apps </strong> that create real value and sustainable impact.
+</p>
+
+
+---
+
+
+<!-- OPEN SOURCE / COMMUNITY -->
+<h2>🤝 Open Source</h2>
+
+
+- Contributor to: [Repo/Org], [Repo/Org]
+- I’m open to collaborating on: [topics]
+- Looking for help with: [issue/feature]
+
+
+---
+
+
+<!-- GITHUB METRICS (optional, looks good for recruiters) -->
+<h2>📈 GitHub Stats</h2>
+
+<div align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&include_all_commits=true&hide=contribs&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&langs_count=8" height="165" />
+
+
+<!-- Streaks (optional) -->
+<br/>
+<img src="https://streak-stats.demolab.com?user=[your-username]&date_format=j%20M%5B%20Y%5D" height="165" />
+
+
+</div>
+
+
+---
+
+
+<!-- HIGHLIGHTED VALUES -->
+<h2>🧠 Engineering Values</h2>
+
+
+- **Clarity over complexity** → I write clean, readable, and well-tested code that anyone can maintain.  
+- **Future-proof thinking** → I design systems for scalability, resilience, and long-term reliability.  
+- **Build fast, learn faster** → I ship iteratively, measure impact, and improve continuously.  
+- **Transparency matters** → I document decisions, communicate clearly, and share knowledge.  
+- **People first** → I’m a reliable, respectful, and curious teammate who believes collaboration builds better products.  
+
+
+---
+
+
+<!-- CONTACT -->
+<h2>📬 Reach Me</h2>
+
+
+- Email: <a href="mailto:[zaynalarrey555@gmail.com]"><strong>[zaynalarrey555@gmail.com]</strong></a>
+- Portfolio: <a href="https://sites.google.com/view/prettordinary/home">https://sites.google.com/view/prettordinary/home</a>
+- LinkedIn: <a href="https://linkedin.com/in/https://www.linkedin.com/in/miriam-larsey-550651381/">https://www.linkedin.com/in/miriam-larsey-550651381/</a>
+- X/Twitter: <a href="https://twitter.com/@area3872685">@earea3872685</a>
+
+
+---
+
+
+<!-- FOOTER QUOTE (optional) -->
+<blockquote>
+"[Short mission statement or quote that represents your engineering ethos.]"
+</blockquote>
+
+
+<!-- BONUS: REPO HYGIENE CHECKLIST -->
+
+
+<h3>🧼 Repo Hygiene Checklist</h3>
+
+
+- Each project has: concise README, clear setup steps, screenshots/gif, tech stack, architecture notes, tests badge
+- Consistent branch naming + PR templates
+- Issues labeled and groomed; project board for roadmap
+- CI/CD + basic lint/test workflow (GitHub Actions)
+- LICENSE + CODE_OF_CONDUCT + CONTRIBUTING
+- Semantic versioning (when applicable)
+
+
+<!-- BONUS: PINNED REPOS SUGGESTIONS -->
+
+
+<h3>📎 What to Pin</h3>
+
+
+- 1 flagship production-grade app (backend/API or full stack)
+- 1 algorithm/data-structures or systems-style project
+- 1 cleanly documented ALX project showcasing fundamentals
+- 1 open-source contribution PR (or micro-library/tool)
+- 1 data project (if relevant) with notebook + dashboard
+- 1 fun/creative project that shows personality
+
+
+<!-- END -->
